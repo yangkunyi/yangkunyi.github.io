@@ -1,22 +1,26 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: "Is Segment Anything Model 2 All You Need for Surgery Video Segmentation? A Systematic Evaluation"
+    authors: Cheng Yuan, Jian Jiang, <strong>Kunyi Yang</strong>, Lv Wu, Rui Wang, Zi Meng, Haonan Ping, Ziyu Xu, Yifan Zhou, Wanli Song, Hesheng Wang, Yueming Jin, Qi Dou, Yutong Ban
+    conference_short: NPJ DS
+    conference: Research Square preprint, under review at <strong>npj Digital Surgery</strong>, 2025.
+    pdf: https://www.researchsquare.com/article/rs-6971586/latest.pdf
+    page: https://www.researchsquare.com/article/rs-6971586/latest
+    image: ./assets/img/publications/sam2-eval.jpg
+    notes: Under Review
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "The SAGES Critical View of Safety Challenge: A Global Benchmark for AI-Assisted Surgical Quality Assessment"
+    authors: Deepak Alapatt, Jennifer Eckhoff, Zhiliang Lyu, Yutong Ban, Jean-Paul Mazellier, Sarah Choksi, <strong>Kunyi Yang</strong>, et al.
+    conference_short: arXiv
+    conference: arXiv preprint <strong>arXiv:2509.17100</strong>, 2025.
+    pdf: https://arxiv.org/pdf/2509.17100.pdf
+    page: https://arxiv.org/abs/2509.17100
+    image: ./assets/img/publications/sages-cvs.png
+
+  - title: "See in Depth: Training-Free Surgical Scene Segmentation with Monocular Depth Priors"
+    authors: <strong>Kunyi Yang</strong>, Qingyu Wang, Cheng Yuan, Yutong Ban
+    conference_short: arXiv
+    conference: arXiv preprint <strong>arXiv:2512.05529</strong>, 2025.
+    pdf: https://arxiv.org/pdf/2512.05529.pdf
+    page: https://arxiv.org/abs/2512.05529
+    image: ./assets/img/publications/see-in-depth-pipeline.png
