@@ -104,8 +104,12 @@
   background-color:#000}
 
 email {
-    font-size: 14px;
+    font-size: 15px;
     font-family: "Ubuntu Mono";
+}
+
+position {
+    font-size: 1.2rem !important;
 }
 
 .icon-button i{
@@ -216,8 +220,8 @@ papertitle {
 
       .image.avatar img {
         border-radius: 100%;
-        width: 45%;
-        padding: 20px;
+        width: 62%;
+        padding: 12px;
         // border: 1px solid #ddd;
         // padding: 3px;
         // box-shadow: 0 -1px 5px 1px rgba(200, 200, 200, 0.3);
@@ -232,6 +236,11 @@ h3, h4, h5, h6 {
   font-weight: 600;
   color:#043361;
   margin:0 0 20px;
+}
+
+body {
+  font-size: 16px;
+  line-height: 1.65;
 }
 
 h1 {
@@ -266,7 +275,7 @@ h1, h2, h3 {
 }
 
 h1 {
-  font-size:28px;
+  font-size:32px;
 }
 
 a {
@@ -360,7 +369,7 @@ header {
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
-  padding-top:4.0em;
+  padding-top:3.2em;
   text-align:center
 }
 
@@ -434,7 +443,7 @@ header ul a strong {
 section {
   width:650px;
   float:right;
-  padding-top:4.0em;
+  padding-top:3.4em;
   padding-bottom:50px;
 }
 
@@ -500,8 +509,8 @@ footer {
 
    .image.avatar img {
         border-radius: 100%;
-        width: 117px;
-        padding:20px;
+        width: 145px;
+        padding:16px;
       }
   #head1o2 {
     visibility: hidden;
@@ -556,8 +565,8 @@ footer {
 
   .image.avatar img {
       border-radius: 100%;
-      width: 95px;
-      padding:20px;
+      width: 120px;
+      padding:14px;
   }
   #head1o2 {
     visibility: hidden;
